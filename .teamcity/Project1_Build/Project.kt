@@ -11,4 +11,5 @@ object Project : Project({
     name = "Build"
 
     buildType(Project1_Build_BuildStep1)
+	buildType(Project1_Build_BuildStep2_by_kotlin)
 })
