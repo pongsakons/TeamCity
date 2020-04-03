@@ -10,8 +10,8 @@ object Project : Project({
     uuid = "a5508bec-3e04-4e79-b3f7-d75f5cd19547"
     extId = "Project1"
     parentId = "_Root"
-    name = "Project 1 kotlin123"
-	description = "xxx"
+    name = "Project 1"
+	description = "Test Kotlin"
 
     features {
         versionedSettings {
