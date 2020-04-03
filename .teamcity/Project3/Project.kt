@@ -7,7 +7,7 @@ import jetbrains.buildServer.configs.kotlin.v10.projectFeatures.VersionedSetting
 import jetbrains.buildServer.configs.kotlin.v10.projectFeatures.versionedSettings
 
 object Project : Project({
-    uuid = "uuid_Project3"
+    uuid = ""
     extId = "Project3"
     parentId = "_Root"
     name = "Project 3 by kotlin"
