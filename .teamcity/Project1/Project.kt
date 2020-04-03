@@ -11,6 +11,7 @@ object Project : Project({
     extId = "Project1"
     parentId = "_Root"
     name = "Project 1 kotlin123"
+	description = "xxx"
 
     features {
         versionedSettings {
